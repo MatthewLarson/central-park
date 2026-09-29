@@ -1,0 +1,25 @@
+{
+  "materialSlots": {
+    "Iron_ParkGreen": "mat-b15dc01d-a756-4ae6-8469-b32b4b5d00f7",
+    "Wood_Weathered": "mat-85197c5b-f850-47c5-b1cd-30c057d4b0f3",
+    "Marble_ChessTop": "mat-6f2ea214-f76d-4797-b68b-812bd964586c",
+    "Marble_Light": "mat-f984b68e-1c68-4350-b6c9-c9f679023081",
+    "Grass_Lawn": "mat-c8205090-30ec-4ec1-a0db-2c73a6e31a31",
+    "Brick_Red": "mat-ff853542-4185-4e46-a2a8-301ded05f2dd",
+    "Pavers_Hex": "mat-929e79e0-f33a-454a-8f00-b313df78397b",
+    "Slate_Roof": "mat-54eae61d-7d63-4568-a754-1bc3078993b7",
+    "Paint_White": "mat-c2133bec-96de-44db-9cda-19e6a7f92c56",
+    "Glass_Window": "mat-f5bb7608-01d4-458c-9c9e-f946a2d6922d",
+    "Glass_Globe": "mat-65bbb032-dfa1-43d1-880d-db42de3222ea",
+    "Asphalt_Path": "mat-5bd07d7e-2374-457b-abb9-6200faa45a7f",
+    "Rock_Schist": "mat-d1a353c1-d91f-4cf3-b91a-60279f79493a",
+    "Facade_Brick": "mat-fd3b4814-a8b0-41b4-9813-3381884c1e83",
+    "Facade_GlassDark": "mat-201f63f6-3f95-4ecf-afaa-d4d15867d4b2",
+    "Facade_Limestone": "mat-da5737d5-19c4-46d6-9e2b-112e855128a4",
+    "Facade_GlassPale": "mat-5f2c4207-9d5d-4ac6-b9d6-7bd28187ed32",
+    "Roof_Tar": "mat-456193d0-1b93-4846-924b-8ebf13cbafa0",
+    "Bark_Elm": "mat-c4c21db1-19fe-458f-8b87-d950f4dc788d",
+    "Leaves_Elm": "mat-1f6cfa63-75ea-4b87-a6d8-4c491a4858cb",
+    "Canopy_Distant": "mat-9b4f286b-f3fe-416f-a027-1bbda2f6fa49"
+  }
+}

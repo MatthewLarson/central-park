@@ -1,0 +1,239 @@
+{
+  "schemaVersion": "1.0",
+  "id": "central-park",
+  "name": "Central Park",
+  "version": "0.1.0",
+  "type": "room-pack",
+  "entry": {
+    "setup": "setup.json"
+  },
+  "assets": [
+    "media/cover-thumb.webp",
+    "media/cover.webp",
+    "media/screenshot-0.webp",
+    "media/screenshot-1.webp",
+    "media/screenshot-2.webp",
+    "media/screenshot-3.webp",
+    "media/screenshot-4.webp",
+    "media/screenshot-5.webp",
+    "media/screenshot-6.webp",
+    "models/central-park-chess.web.glb",
+    "models/central-park-chess.web.meta.json",
+    "skies/je_gray_park_2k.hdr",
+    "textures/central-park-chess-web/asphalt-basecolor-3b38d1f3.webp",
+    "textures/central-park-chess-web/asphalt-normal-a49785c3.webp",
+    "textures/central-park-chess-web/asphalt-roughness-cc23dfa4.webp",
+    "textures/central-park-chess-web/bark-basecolor-8696d2db.webp",
+    "textures/central-park-chess-web/bark-normal-e7f9ca71.webp",
+    "textures/central-park-chess-web/bark-roughness-54a20143.webp",
+    "textures/central-park-chess-web/brick-basecolor-4ba9f67a.webp",
+    "textures/central-park-chess-web/brick-normal-e5f7ceb0.webp",
+    "textures/central-park-chess-web/brick-roughness-bb897758.webp",
+    "textures/central-park-chess-web/canopy-basecolor-94b1b77a.webp",
+    "textures/central-park-chess-web/chess-top-44b79688.webp",
+    "textures/central-park-chess-web/facade-brick-84017849.webp",
+    "textures/central-park-chess-web/facade-glass-dark-d8449d2c.webp",
+    "textures/central-park-chess-web/facade-glass-pale-c9c398fa.webp",
+    "textures/central-park-chess-web/facade-limestone-a3809bcf.webp",
+    "textures/central-park-chess-web/grass-basecolor-89cae450.webp",
+    "textures/central-park-chess-web/grass-normal-c5310b0d.webp",
+    "textures/central-park-chess-web/iron-basecolor-a20eab96.webp",
+    "textures/central-park-chess-web/leaves-atlas-39a606ff.webp",
+    "textures/central-park-chess-web/marble-basecolor-05d1d817.webp",
+    "textures/central-park-chess-web/pavers-basecolor-bcab89fd.webp",
+    "textures/central-park-chess-web/pavers-normal-b6ca89e2.webp",
+    "textures/central-park-chess-web/pavers-roughness-9421d334.webp",
+    "textures/central-park-chess-web/rock-basecolor-a27de3c4.webp",
+    "textures/central-park-chess-web/rock-normal-a748e8c4.webp",
+    "textures/central-park-chess-web/rock-roughness-550b654f.webp",
+    "textures/central-park-chess-web/slate-basecolor-34432375.webp",
+    "textures/central-park-chess-web/slate-normal-5a6bfe8e.webp",
+    "textures/central-park-chess-web/slate-roughness-72128024.webp",
+    "textures/central-park-chess-web/wood-normal-e56587d2.webp",
+    "textures/central-park-chess-web/wood-roughness-1bcaed9c.webp",
+    "textures/central-park-chess-web/wood-weathered-basecolor-c4eb0501.webp"
+  ],
+  "compatibility": {
+    "engine": ">=0.1 <1.0"
+  },
+  "license": "MIT",
+  "tags": [
+    "new-york",
+    "park",
+    "central",
+    "central-park",
+    "nature",
+    "trees",
+    "outdoors"
+  ],
+  "credits": [
+    {
+      "id": "credit-ba5a35d4-dac1-4aa9-afd5-0e6dc5be10df",
+      "paths": [
+        "skies/je_gray_park_2k.hdr"
+      ],
+      "origin": "third-party",
+      "title": "J&E Gray Park",
+      "creator": "Greg Zaal",
+      "creatorUrl": "https://gregzaal.com/",
+      "sourceUrl": "https://polyhaven.com/a/je_gray_park",
+      "licenseName": "CC0 1.0 (Public Domain)",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "recordedAt": "2026-09-29T22:12:24.675Z",
+      "attestation": {
+        "termsVersion": "2026-09-07.1",
+        "acceptedAt": "2026-09-29T22:12:24.675Z",
+        "signedName": "Matt Larson"
+      }
+    },
+    {
+      "id": "credit-50dff896-9a44-442d-b339-078d2180cf75",
+      "paths": [
+        "models/central-park-chess.web.glb",
+        "models/central-park-chess.web.meta.json",
+        "textures/central-park-chess-web/asphalt-basecolor-3b38d1f3.webp",
+        "textures/central-park-chess-web/asphalt-normal-a49785c3.webp",
+        "textures/central-park-chess-web/asphalt-roughness-cc23dfa4.webp",
+        "textures/central-park-chess-web/bark-basecolor-8696d2db.webp",
+        "textures/central-park-chess-web/bark-normal-e7f9ca71.webp",
+        "textures/central-park-chess-web/bark-roughness-54a20143.webp",
+        "textures/central-park-chess-web/brick-basecolor-4ba9f67a.webp",
+        "textures/central-park-chess-web/brick-normal-e5f7ceb0.webp",
+        "textures/central-park-chess-web/brick-roughness-bb897758.webp",
+        "textures/central-park-chess-web/canopy-basecolor-94b1b77a.webp",
+        "textures/central-park-chess-web/chess-top-44b79688.webp",
+        "textures/central-park-chess-web/facade-brick-84017849.webp",
+        "textures/central-park-chess-web/facade-glass-dark-d8449d2c.webp",
+        "textures/central-park-chess-web/facade-glass-pale-c9c398fa.webp",
+        "textures/central-park-chess-web/facade-limestone-a3809bcf.webp",
+        "textures/central-park-chess-web/grass-basecolor-89cae450.webp",
+        "textures/central-park-chess-web/grass-normal-c5310b0d.webp",
+        "textures/central-park-chess-web/iron-basecolor-a20eab96.webp",
+        "textures/central-park-chess-web/leaves-atlas-39a606ff.webp",
+        "textures/central-park-chess-web/marble-basecolor-05d1d817.webp",
+        "textures/central-park-chess-web/pavers-basecolor-bcab89fd.webp",
+        "textures/central-park-chess-web/pavers-normal-b6ca89e2.webp",
+        "textures/central-park-chess-web/pavers-roughness-9421d334.webp",
+        "textures/central-park-chess-web/rock-basecolor-a27de3c4.webp",
+        "textures/central-park-chess-web/rock-normal-a748e8c4.webp",
+        "textures/central-park-chess-web/rock-roughness-550b654f.webp",
+        "textures/central-park-chess-web/slate-basecolor-34432375.webp",
+        "textures/central-park-chess-web/slate-normal-5a6bfe8e.webp",
+        "textures/central-park-chess-web/slate-roughness-72128024.webp",
+        "textures/central-park-chess-web/wood-normal-e56587d2.webp",
+        "textures/central-park-chess-web/wood-roughness-1bcaed9c.webp",
+        "textures/central-park-chess-web/wood-weathered-basecolor-c4eb0501.webp"
+      ],
+      "origin": "own-work",
+      "recordedAt": "2026-09-29T22:13:05.754Z",
+      "attestation": {
+        "termsVersion": "2026-09-07.1",
+        "acceptedAt": "2026-09-29T22:13:05.754Z",
+        "signedName": "Matt Larson"
+      }
+    },
+    {
+      "id": "credit-3e84c4d4-ca77-4764-b9c4-c22bd40c3574",
+      "paths": [
+        "media/cover-thumb.webp",
+        "media/cover.webp"
+      ],
+      "origin": "own-work",
+      "recordedAt": "2026-09-29T22:28:37.097Z",
+      "attestation": {
+        "termsVersion": "2026-09-07.1",
+        "acceptedAt": "2026-09-29T22:28:37.097Z",
+        "signedName": "Matt Larson"
+      }
+    },
+    {
+      "id": "credit-6b93be58-c122-42c3-858f-3902415323b0",
+      "paths": [
+        "media/screenshot-0.webp",
+        "media/screenshot-1.webp",
+        "media/screenshot-2.webp",
+        "media/screenshot-3.webp",
+        "media/screenshot-4.webp",
+        "media/screenshot-5.webp",
+        "media/screenshot-6.webp"
+      ],
+      "origin": "own-work",
+      "recordedAt": "2026-09-29T22:29:12.504Z",
+      "attestation": {
+        "termsVersion": "2026-09-07.1",
+        "acceptedAt": "2026-09-29T22:29:12.504Z",
+        "signedName": "Matt Larson"
+      }
+    }
+  ],
+  "slug": "central-park",
+  "summary": "Central Park",
+  "description": "Central Park",
+  "category": "room-outdoor",
+  "coverImage": "media/cover.webp",
+  "screenshots": [
+    {
+      "path": "media/screenshot-0.webp",
+      "crop": {
+        "x": 0,
+        "y": 0.28660883634585627,
+        "w": 1,
+        "h": 0.5625
+      }
+    },
+    {
+      "path": "media/screenshot-1.webp",
+      "crop": {
+        "x": 0,
+        "y": 0,
+        "w": 1,
+        "h": 1
+      }
+    },
+    {
+      "path": "media/screenshot-2.webp",
+      "crop": {
+        "x": 0,
+        "y": 0,
+        "w": 1,
+        "h": 1
+      }
+    },
+    {
+      "path": "media/screenshot-3.webp",
+      "crop": {
+        "x": 0,
+        "y": 0,
+        "w": 1,
+        "h": 1
+      }
+    },
+    {
+      "path": "media/screenshot-4.webp",
+      "crop": {
+        "x": 0,
+        "y": 0,
+        "w": 1,
+        "h": 1
+      }
+    },
+    {
+      "path": "media/screenshot-5.webp",
+      "crop": {
+        "x": 0,
+        "y": 0,
+        "w": 1,
+        "h": 1
+      }
+    },
+    {
+      "path": "media/screenshot-6.webp",
+      "crop": {
+        "x": 0,
+        "y": 0,
+        "w": 1,
+        "h": 1
+      }
+    }
+  ]
+}

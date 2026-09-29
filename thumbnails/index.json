@@ -1,0 +1,396 @@
+{
+  "version": 1,
+  "rendererVersion": 1,
+  "entries": {
+    "@materials/mat-1f6cfa63-75ea-4b87-a6d8-4c491a4858cb": {
+      "inputHash": "6b4d2eae962a351d",
+      "file": "thumbnails/@materials/mat-1f6cfa63-75ea-4b87-a6d8-4c491a4858cb.webp",
+      "width": 256,
+      "height": 256
+    },
+    "@materials/mat-201f63f6-3f95-4ecf-afaa-d4d15867d4b2": {
+      "inputHash": "54b4201ed08754cc",
+      "file": "thumbnails/@materials/mat-201f63f6-3f95-4ecf-afaa-d4d15867d4b2.webp",
+      "width": 256,
+      "height": 256
+    },
+    "@materials/mat-456193d0-1b93-4846-924b-8ebf13cbafa0": {
+      "inputHash": "d7f7e8c43ba48a5c",
+      "file": "thumbnails/@materials/mat-456193d0-1b93-4846-924b-8ebf13cbafa0.webp",
+      "width": 256,
+      "height": 256
+    },
+    "@materials/mat-54eae61d-7d63-4568-a754-1bc3078993b7": {
+      "inputHash": "7d45c05c0974795d",
+      "file": "thumbnails/@materials/mat-54eae61d-7d63-4568-a754-1bc3078993b7.webp",
+      "width": 256,
+      "height": 256
+    },
+    "@materials/mat-5bd07d7e-2374-457b-abb9-6200faa45a7f": {
+      "inputHash": "1d759b6da2d72393",
+      "file": "thumbnails/@materials/mat-5bd07d7e-2374-457b-abb9-6200faa45a7f.webp",
+      "width": 256,
+      "height": 256
+    },
+    "@materials/mat-5f2c4207-9d5d-4ac6-b9d6-7bd28187ed32": {
+      "inputHash": "0dd34101222995db",
+      "file": "thumbnails/@materials/mat-5f2c4207-9d5d-4ac6-b9d6-7bd28187ed32.webp",
+      "width": 256,
+      "height": 256
+    },
+    "@materials/mat-65bbb032-dfa1-43d1-880d-db42de3222ea": {
+      "inputHash": "ffc54314cc390fc6",
+      "file": "thumbnails/@materials/mat-65bbb032-dfa1-43d1-880d-db42de3222ea.webp",
+      "width": 256,
+      "height": 256
+    },
+    "@materials/mat-6f2ea214-f76d-4797-b68b-812bd964586c": {
+      "inputHash": "8a27a0ae8bf9e95a",
+      "file": "thumbnails/@materials/mat-6f2ea214-f76d-4797-b68b-812bd964586c.webp",
+      "width": 256,
+      "height": 256
+    },
+    "@materials/mat-85197c5b-f850-47c5-b1cd-30c057d4b0f3": {
+      "inputHash": "c4145cdb169ea1b9",
+      "file": "thumbnails/@materials/mat-85197c5b-f850-47c5-b1cd-30c057d4b0f3.webp",
+      "width": 256,
+      "height": 256
+    },
+    "@materials/mat-929e79e0-f33a-454a-8f00-b313df78397b": {
+      "inputHash": "c8363742792daea3",
+      "file": "thumbnails/@materials/mat-929e79e0-f33a-454a-8f00-b313df78397b.webp",
+      "width": 256,
+      "height": 256
+    },
+    "@materials/mat-9b4f286b-f3fe-416f-a027-1bbda2f6fa49": {
+      "inputHash": "cf23d80ea6566c8f",
+      "file": "thumbnails/@materials/mat-9b4f286b-f3fe-416f-a027-1bbda2f6fa49.webp",
+      "width": 256,
+      "height": 256
+    },
+    "@materials/mat-b15dc01d-a756-4ae6-8469-b32b4b5d00f7": {
+      "inputHash": "dd81066891949825",
+      "file": "thumbnails/@materials/mat-b15dc01d-a756-4ae6-8469-b32b4b5d00f7.webp",
+      "width": 256,
+      "height": 256
+    },
+    "@materials/mat-c2133bec-96de-44db-9cda-19e6a7f92c56": {
+      "inputHash": "f9dc9cc74bdac7ff",
+      "file": "thumbnails/@materials/mat-c2133bec-96de-44db-9cda-19e6a7f92c56.webp",
+      "width": 256,
+      "height": 256
+    },
+    "@materials/mat-c4c21db1-19fe-458f-8b87-d950f4dc788d": {
+      "inputHash": "db09e8887e60c3ca",
+      "file": "thumbnails/@materials/mat-c4c21db1-19fe-458f-8b87-d950f4dc788d.webp",
+      "width": 256,
+      "height": 256
+    },
+    "@materials/mat-c8205090-30ec-4ec1-a0db-2c73a6e31a31": {
+      "inputHash": "d0e53e2f19b35c05",
+      "file": "thumbnails/@materials/mat-c8205090-30ec-4ec1-a0db-2c73a6e31a31.webp",
+      "width": 256,
+      "height": 256
+    },
+    "@materials/mat-d1a353c1-d91f-4cf3-b91a-60279f79493a": {
+      "inputHash": "2f07c2047ac6283c",
+      "file": "thumbnails/@materials/mat-d1a353c1-d91f-4cf3-b91a-60279f79493a.webp",
+      "width": 256,
+      "height": 256
+    },
+    "@materials/mat-da5737d5-19c4-46d6-9e2b-112e855128a4": {
+      "inputHash": "ef2b5a60aaf7751e",
+      "file": "thumbnails/@materials/mat-da5737d5-19c4-46d6-9e2b-112e855128a4.webp",
+      "width": 256,
+      "height": 256
+    },
+    "@materials/mat-f5bb7608-01d4-458c-9c9e-f946a2d6922d": {
+      "inputHash": "4be7b0e7bf89eb1d",
+      "file": "thumbnails/@materials/mat-f5bb7608-01d4-458c-9c9e-f946a2d6922d.webp",
+      "width": 256,
+      "height": 256
+    },
+    "@materials/mat-f984b68e-1c68-4350-b6c9-c9f679023081": {
+      "inputHash": "d000f7c71d9e304c",
+      "file": "thumbnails/@materials/mat-f984b68e-1c68-4350-b6c9-c9f679023081.webp",
+      "width": 256,
+      "height": 256
+    },
+    "@materials/mat-fd3b4814-a8b0-41b4-9813-3381884c1e83": {
+      "inputHash": "aa1d8b6199003ec2",
+      "file": "thumbnails/@materials/mat-fd3b4814-a8b0-41b4-9813-3381884c1e83.webp",
+      "width": 256,
+      "height": 256
+    },
+    "@materials/mat-ff853542-4185-4e46-a2a8-301ded05f2dd": {
+      "inputHash": "75e60ae4584ccd32",
+      "file": "thumbnails/@materials/mat-ff853542-4185-4e46-a2a8-301ded05f2dd.webp",
+      "width": 256,
+      "height": 256
+    },
+    "media/cover-thumb.webp": {
+      "inputHash": "3ab07e2908645972",
+      "file": "thumbnails/media/cover-thumb.webp.webp",
+      "width": 256,
+      "height": 256
+    },
+    "media/cover.webp": {
+      "inputHash": "57470a3a5eb806b6",
+      "file": "thumbnails/media/cover.webp.webp",
+      "width": 256,
+      "height": 256
+    },
+    "media/screenshot-0.webp": {
+      "inputHash": "4afbcdaa69bfe5b1",
+      "file": "thumbnails/media/screenshot-0.webp.webp",
+      "width": 256,
+      "height": 144
+    },
+    "media/screenshot-1.webp": {
+      "inputHash": "41bc20ee05ef8209",
+      "file": "thumbnails/media/screenshot-1.webp.webp",
+      "width": 256,
+      "height": 144
+    },
+    "media/screenshot-2.webp": {
+      "inputHash": "086d90f4a6b70e9c",
+      "file": "thumbnails/media/screenshot-2.webp.webp",
+      "width": 256,
+      "height": 144
+    },
+    "media/screenshot-3.webp": {
+      "inputHash": "d5f78e86eb9829f9",
+      "file": "thumbnails/media/screenshot-3.webp.webp",
+      "width": 256,
+      "height": 144
+    },
+    "media/screenshot-4.webp": {
+      "inputHash": "0f1675f3977f3c01",
+      "file": "thumbnails/media/screenshot-4.webp.webp",
+      "width": 256,
+      "height": 144
+    },
+    "media/screenshot-5.webp": {
+      "inputHash": "b6c2e61ea9c9c3c0",
+      "file": "thumbnails/media/screenshot-5.webp.webp",
+      "width": 256,
+      "height": 144
+    },
+    "media/screenshot-6.webp": {
+      "inputHash": "87f39bd32cc507c5",
+      "file": "thumbnails/media/screenshot-6.webp.webp",
+      "width": 256,
+      "height": 144
+    },
+    "models/central-park-chess.web.glb": {
+      "inputHash": "e1753c7786bd4754",
+      "file": "thumbnails/models/central-park-chess.web.glb.webp",
+      "width": 256,
+      "height": 256
+    },
+    "originals/central-park-chess.web.glb": {
+      "inputHash": "5ed70f862601b3d4",
+      "file": "thumbnails/originals/central-park-chess.web.glb.webp",
+      "width": 256,
+      "height": 256
+    },
+    "skies/je_gray_park_2k.hdr": {
+      "inputHash": "53242b5544a510c4",
+      "file": "thumbnails/skies/je_gray_park_2k.hdr.webp",
+      "width": 256,
+      "height": 128
+    },
+    "textures/central-park-chess-web/asphalt-basecolor-3b38d1f3.webp": {
+      "inputHash": "aed10b950775fdaa",
+      "file": "thumbnails/textures/central-park-chess-web/asphalt-basecolor-3b38d1f3.webp.webp",
+      "width": 256,
+      "height": 256
+    },
+    "textures/central-park-chess-web/asphalt-normal-a49785c3.webp": {
+      "inputHash": "81ad86fc3712f97b",
+      "file": "thumbnails/textures/central-park-chess-web/asphalt-normal-a49785c3.webp.webp",
+      "width": 256,
+      "height": 256
+    },
+    "textures/central-park-chess-web/asphalt-roughness-cc23dfa4.webp": {
+      "inputHash": "28f9257449b192c2",
+      "file": "thumbnails/textures/central-park-chess-web/asphalt-roughness-cc23dfa4.webp.webp",
+      "width": 256,
+      "height": 256
+    },
+    "textures/central-park-chess-web/bark-basecolor-8696d2db.webp": {
+      "inputHash": "70c58f25cb85b119",
+      "file": "thumbnails/textures/central-park-chess-web/bark-basecolor-8696d2db.webp.webp",
+      "width": 256,
+      "height": 256
+    },
+    "textures/central-park-chess-web/bark-normal-e7f9ca71.webp": {
+      "inputHash": "691b3e971321d9f2",
+      "file": "thumbnails/textures/central-park-chess-web/bark-normal-e7f9ca71.webp.webp",
+      "width": 256,
+      "height": 256
+    },
+    "textures/central-park-chess-web/bark-roughness-54a20143.webp": {
+      "inputHash": "c23b73325940735a",
+      "file": "thumbnails/textures/central-park-chess-web/bark-roughness-54a20143.webp.webp",
+      "width": 256,
+      "height": 256
+    },
+    "textures/central-park-chess-web/brick-basecolor-4ba9f67a.webp": {
+      "inputHash": "9a0b31d6855c8fa4",
+      "file": "thumbnails/textures/central-park-chess-web/brick-basecolor-4ba9f67a.webp.webp",
+      "width": 256,
+      "height": 256
+    },
+    "textures/central-park-chess-web/brick-normal-e5f7ceb0.webp": {
+      "inputHash": "79c6869f81ace2b7",
+      "file": "thumbnails/textures/central-park-chess-web/brick-normal-e5f7ceb0.webp.webp",
+      "width": 256,
+      "height": 256
+    },
+    "textures/central-park-chess-web/brick-roughness-bb897758.webp": {
+      "inputHash": "64b465adc54c9f16",
+      "file": "thumbnails/textures/central-park-chess-web/brick-roughness-bb897758.webp.webp",
+      "width": 256,
+      "height": 256
+    },
+    "textures/central-park-chess-web/canopy-basecolor-94b1b77a.webp": {
+      "inputHash": "9a7368d4005e9192",
+      "file": "thumbnails/textures/central-park-chess-web/canopy-basecolor-94b1b77a.webp.webp",
+      "width": 256,
+      "height": 256
+    },
+    "textures/central-park-chess-web/chess-top-44b79688.webp": {
+      "inputHash": "a03a65773e39d147",
+      "file": "thumbnails/textures/central-park-chess-web/chess-top-44b79688.webp.webp",
+      "width": 256,
+      "height": 256
+    },
+    "textures/central-park-chess-web/facade-brick-84017849.webp": {
+      "inputHash": "f76e47c85ba70ed9",
+      "file": "thumbnails/textures/central-park-chess-web/facade-brick-84017849.webp.webp",
+      "width": 256,
+      "height": 256
+    },
+    "textures/central-park-chess-web/facade-glass-dark-d8449d2c.webp": {
+      "inputHash": "f0907ea5bf889255",
+      "file": "thumbnails/textures/central-park-chess-web/facade-glass-dark-d8449d2c.webp.webp",
+      "width": 256,
+      "height": 256
+    },
+    "textures/central-park-chess-web/facade-glass-pale-c9c398fa.webp": {
+      "inputHash": "6dbd4808d4aadc0f",
+      "file": "thumbnails/textures/central-park-chess-web/facade-glass-pale-c9c398fa.webp.webp",
+      "width": 256,
+      "height": 256
+    },
+    "textures/central-park-chess-web/facade-limestone-a3809bcf.webp": {
+      "inputHash": "2b5dd7b5ee4ff367",
+      "file": "thumbnails/textures/central-park-chess-web/facade-limestone-a3809bcf.webp.webp",
+      "width": 256,
+      "height": 256
+    },
+    "textures/central-park-chess-web/grass-basecolor-89cae450.webp": {
+      "inputHash": "a14d85c14c894b81",
+      "file": "thumbnails/textures/central-park-chess-web/grass-basecolor-89cae450.webp.webp",
+      "width": 256,
+      "height": 256
+    },
+    "textures/central-park-chess-web/grass-normal-c5310b0d.webp": {
+      "inputHash": "589ba13fda8efa70",
+      "file": "thumbnails/textures/central-park-chess-web/grass-normal-c5310b0d.webp.webp",
+      "width": 256,
+      "height": 256
+    },
+    "textures/central-park-chess-web/iron-basecolor-a20eab96.webp": {
+      "inputHash": "fd5297da92d2ba06",
+      "file": "thumbnails/textures/central-park-chess-web/iron-basecolor-a20eab96.webp.webp",
+      "width": 256,
+      "height": 256
+    },
+    "textures/central-park-chess-web/leaves-atlas-39a606ff.webp": {
+      "inputHash": "a939c7c2881944a1",
+      "file": "thumbnails/textures/central-park-chess-web/leaves-atlas-39a606ff.webp.webp",
+      "width": 256,
+      "height": 256
+    },
+    "textures/central-park-chess-web/marble-basecolor-05d1d817.webp": {
+      "inputHash": "78bcdd871b74d23c",
+      "file": "thumbnails/textures/central-park-chess-web/marble-basecolor-05d1d817.webp.webp",
+      "width": 256,
+      "height": 256
+    },
+    "textures/central-park-chess-web/pavers-basecolor-bcab89fd.webp": {
+      "inputHash": "9838654b4af6424e",
+      "file": "thumbnails/textures/central-park-chess-web/pavers-basecolor-bcab89fd.webp.webp",
+      "width": 256,
+      "height": 256
+    },
+    "textures/central-park-chess-web/pavers-normal-b6ca89e2.webp": {
+      "inputHash": "e55285b593211a73",
+      "file": "thumbnails/textures/central-park-chess-web/pavers-normal-b6ca89e2.webp.webp",
+      "width": 256,
+      "height": 256
+    },
+    "textures/central-park-chess-web/pavers-roughness-9421d334.webp": {
+      "inputHash": "9adc7325e029bc02",
+      "file": "thumbnails/textures/central-park-chess-web/pavers-roughness-9421d334.webp.webp",
+      "width": 256,
+      "height": 256
+    },
+    "textures/central-park-chess-web/rock-basecolor-a27de3c4.webp": {
+      "inputHash": "de85f07603dab649",
+      "file": "thumbnails/textures/central-park-chess-web/rock-basecolor-a27de3c4.webp.webp",
+      "width": 256,
+      "height": 256
+    },
+    "textures/central-park-chess-web/rock-normal-a748e8c4.webp": {
+      "inputHash": "692a1361b4fb914e",
+      "file": "thumbnails/textures/central-park-chess-web/rock-normal-a748e8c4.webp.webp",
+      "width": 256,
+      "height": 256
+    },
+    "textures/central-park-chess-web/rock-roughness-550b654f.webp": {
+      "inputHash": "156fe9c6c42ff051",
+      "file": "thumbnails/textures/central-park-chess-web/rock-roughness-550b654f.webp.webp",
+      "width": 256,
+      "height": 256
+    },
+    "textures/central-park-chess-web/slate-basecolor-34432375.webp": {
+      "inputHash": "71a523571749de55",
+      "file": "thumbnails/textures/central-park-chess-web/slate-basecolor-34432375.webp.webp",
+      "width": 256,
+      "height": 256
+    },
+    "textures/central-park-chess-web/slate-normal-5a6bfe8e.webp": {
+      "inputHash": "19cb11344d4af7dd",
+      "file": "thumbnails/textures/central-park-chess-web/slate-normal-5a6bfe8e.webp.webp",
+      "width": 256,
+      "height": 256
+    },
+    "textures/central-park-chess-web/slate-roughness-72128024.webp": {
+      "inputHash": "fe0ba2f204764e40",
+      "file": "thumbnails/textures/central-park-chess-web/slate-roughness-72128024.webp.webp",
+      "width": 256,
+      "height": 256
+    },
+    "textures/central-park-chess-web/wood-normal-e56587d2.webp": {
+      "inputHash": "dcc59354b69e8d73",
+      "file": "thumbnails/textures/central-park-chess-web/wood-normal-e56587d2.webp.webp",
+      "width": 256,
+      "height": 256
+    },
+    "textures/central-park-chess-web/wood-roughness-1bcaed9c.webp": {
+      "inputHash": "e924e91368cf125a",
+      "file": "thumbnails/textures/central-park-chess-web/wood-roughness-1bcaed9c.webp.webp",
+      "width": 256,
+      "height": 256
+    },
+    "textures/central-park-chess-web/wood-weathered-basecolor-c4eb0501.webp": {
+      "inputHash": "64ac33cb4a39bab7",
+      "file": "thumbnails/textures/central-park-chess-web/wood-weathered-basecolor-c4eb0501.webp.webp",
+      "width": 256,
+      "height": 256
+    }
+  }
+}
