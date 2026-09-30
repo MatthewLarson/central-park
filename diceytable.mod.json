@@ -2,7 +2,7 @@
   "schemaVersion": "1.0",
   "id": "central-park",
   "name": "Central Park",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "type": "room-pack",
   "entry": {
     "setup": "setup.json"
@@ -19,7 +19,7 @@
     "media/screenshot-6.webp",
     "models/central-park-chess.web.glb",
     "models/central-park-chess.web.meta.json",
-    "skies/je_gray_park_2k.hdr",
+    "skies/je_gray_park_2k_nosun.hdr",
     "textures/central-park-chess-web/asphalt-basecolor-3b38d1f3.webp",
     "textures/central-park-chess-web/asphalt-normal-a49785c3.webp",
     "textures/central-park-chess-web/asphalt-roughness-cc23dfa4.webp",
@@ -67,25 +67,6 @@
     "outdoors"
   ],
   "credits": [
-    {
-      "id": "credit-ba5a35d4-dac1-4aa9-afd5-0e6dc5be10df",
-      "paths": [
-        "skies/je_gray_park_2k.hdr"
-      ],
-      "origin": "third-party",
-      "title": "J&E Gray Park",
-      "creator": "Greg Zaal",
-      "creatorUrl": "https://gregzaal.com/",
-      "sourceUrl": "https://polyhaven.com/a/je_gray_park",
-      "licenseName": "CC0 1.0 (Public Domain)",
-      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
-      "recordedAt": "2026-09-29T22:12:24.675Z",
-      "attestation": {
-        "termsVersion": "2026-09-07.1",
-        "acceptedAt": "2026-09-29T22:12:24.675Z",
-        "signedName": "Matt Larson"
-      }
-    },
     {
       "id": "credit-50dff896-9a44-442d-b339-078d2180cf75",
       "paths": [
@@ -162,6 +143,19 @@
       "attestation": {
         "termsVersion": "2026-09-07.1",
         "acceptedAt": "2026-09-29T22:29:12.504Z",
+        "signedName": "Matt Larson"
+      }
+    },
+    {
+      "id": "credit-9234850b-c8d4-46c5-91a2-8f0b73ce004c",
+      "paths": [
+        "skies/je_gray_park_2k_nosun.hdr"
+      ],
+      "origin": "disclaimed",
+      "recordedAt": "2026-09-30T03:53:26.318Z",
+      "attestation": {
+        "termsVersion": "2026-09-07.1",
+        "acceptedAt": "2026-09-30T03:53:26.318Z",
         "signedName": "Matt Larson"
       }
     }
