@@ -194,9 +194,9 @@
       "width": 256,
       "height": 256
     },
-    "skies/je_gray_park_2k.hdr": {
-      "inputHash": "53242b5544a510c4",
-      "file": "thumbnails/skies/je_gray_park_2k.hdr.webp",
+    "skies/je_gray_park_2k_nosun.hdr": {
+      "inputHash": "047c55f26e58c76b",
+      "file": "thumbnails/skies/je_gray_park_2k_nosun.hdr.webp",
       "width": 256,
       "height": 128
     },
